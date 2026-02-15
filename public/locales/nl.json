@@ -1,0 +1,75 @@
+
+{
+  "nav": {
+      "home": "Home",
+      "origin": "Herkomst",
+      "products": "Producten",
+      "benefits": "Voordelen",
+      "testimonials": "Getuigenissen",
+      "contact": "Contact"
+    },
+    "hero": {
+      "headline": "Welwitchia Style — Premium Beauty uit Nederland voor de Wereld",
+      "subheadline": "Geselecteerde cosmetica en producten met een Europese standaard van uitmuntendheid.",
+      "ctaExplore": "Ontdek Producten",
+      "ctaCatalog": "Bekijk Catalogus"
+    },
+    "authority": {
+      "title": "Europese Oorsprong, Wereldwijde Uitmuntendheid",
+      "text": "Onze producten worden rechtstreeks geïmporteerd uit Nederland, een land dat bekend staat om zijn hoge levenskwaliteit en strenge normen, zoals erkend door Forbes. Deze toewijding aan uitmuntendheid is doordrenkt in elk item dat we aanbieden.",
+      "seal": "Geïmporteerd uit Europa"
+    },
+    "products": {
+      "title": "Samengestelde Collectie",
+      "searchPlaceholder": "Zoek producten...",
+      "categories": {
+        "all": "Alle",
+        "cosmetics": "Cosmetica",
+        "beauty": "Beauty",
+        "gym": "Gym & Prestatie",
+        "accessories": "Accessoires"
+      },
+      "badges": {
+        "new": "Nieuw",
+        "premium": "Premium",
+        "limited": "Beperkt"
+      },
+      "modalAction": "Neem contact op om te kopen"
+    },
+    "benefits": {
+      "title": "Het Welwitchia Verschil",
+      "card1": {
+        "title": "Nederlandse Kwaliteit",
+        "text": "Producten die voldoen aan strenge Europese kwaliteits- en veiligheidsnormen."
+      },
+      "card2": {
+        "title": "Levering in Angola",
+        "text": "Premium Europese schoonheid gemakkelijk bij u thuisbezorgd."
+      },
+      "card3": {
+        "title": "Gecureerde Selectie",
+        "text": "Elk product is zorgvuldig geselecteerd op effectiviteit en premium kwaliteit."
+      },
+      "card4": {
+        "title": "Persoonlijke Service",
+        "text": "Deskundig advies en ondersteuning om u te helpen de perfecte producten te vinden."
+      }
+    },
+    "testimonials": {
+      "title": "Wat Onze Klanten Zeggen",
+      "clients": "500+ Tevreden Klanten"
+    },
+    "contact": {
+      "title": "Ontdek de Europese Standaard van Schoonheid.",
+      "form": {
+        "name": "Naam",
+        "email": "E-mail",
+        "message": "Bericht",
+        "submit": "Koop Nu"
+      }
+    },
+    "footer": {
+      "rights": "Alle rechten voorbehouden.",
+      "quickLinks": "Snelle Links"
+    }
+}

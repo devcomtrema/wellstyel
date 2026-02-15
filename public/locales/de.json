@@ -1,0 +1,75 @@
+
+{
+  "nav": {
+      "home": "Startseite",
+      "origin": "Herkunft",
+      "products": "Produkte",
+      "benefits": "Vorteile",
+      "testimonials": "Referenzen",
+      "contact": "Kontakt"
+    },
+    "hero": {
+      "headline": "Welwitchia Style — Premium Beauty aus den Niederlanden für die Welt",
+      "subheadline": "Ausgewählte Kosmetika und Produkte mit europäischem Exzellenzstandard.",
+      "ctaExplore": "Produkte entdecken",
+      "ctaCatalog": "Katalog ansehen"
+    },
+    "authority": {
+      "title": "Europäischer Ursprung, Globale Exzellenz",
+      "text": "Unsere Produkte werden direkt aus den Niederlanden importiert, einem Land, das für seine hohe Lebensqualität und anspruchsvollen Standards bekannt ist, wie von Forbes anerkannt. Dieses Engagement für Exzellenz steckt in jedem Artikel, den wir anbieten.",
+      "seal": "Importiert aus Europa"
+    },
+    "products": {
+      "title": "Zusammengestellte Kollektion",
+      "searchPlaceholder": "Produkte suchen...",
+      "categories": {
+        "all": "Alle",
+        "cosmetics": "Kosmetik",
+        "beauty": "Beauty",
+        "gym": "Fitness & Leistung",
+        "accessories": "Zubehör"
+      },
+      "badges": {
+        "new": "Neu",
+        "premium": "Premium",
+        "limited": "Limitiert"
+      },
+      "modalAction": "Kontakt zum Kauf"
+    },
+    "benefits": {
+      "title": "Der Welwitchia-Unterschied",
+      "card1": {
+        "title": "Niederländische Qualität",
+        "text": "Produkte, die strengen europäischen Qualitäts- und Sicherheitsstandards entsprechen."
+      },
+      "card2": {
+        "title": "Lieferung in Angola",
+        "text": "Premium europäische Schönheit bequem an Ihre Haustür geliefert."
+      },
+      "card3": {
+        "title": "Kuratierte Auswahl",
+        "text": "Jedes Produkt wird sorgfältig nach seiner Wirksamkeit und Premium-Qualität ausgewählt."
+      },
+      "card4": {
+        "title": "Persönlicher Service",
+        "text": "Fachkundige Beratung und Unterstützung, um Ihnen bei der Suche nach den perfekten Produkten zu helfen."
+      }
+    },
+    "testimonials": {
+      "title": "Was unsere Kunden sagen",
+      "clients": "500+ zufriedene Kunden"
+    },
+    "contact": {
+      "title": "Entdecken Sie den europäischen Schönheitsstandard.",
+      "form": {
+        "name": "Name",
+        "email": "E-Mail",
+        "message": "Nachricht",
+        "submit": "Jetzt kaufen"
+      }
+    },
+    "footer": {
+      "rights": "Alle Rechte vorbehalten.",
+      "quickLinks": "Schnellinks"
+    }
+}

@@ -1,0 +1,75 @@
+
+{
+  "nav": {
+      "home": "Home",
+      "origin": "Origin",
+      "products": "Products",
+      "benefits": "Benefits",
+      "testimonials": "Testimonials",
+      "contact": "Contact"
+    },
+    "hero": {
+      "headline": "Welwitchia Style — Premium Beauty from the Netherlands to the World",
+      "subheadline": "Selected cosmetics and products with a European standard of excellence.",
+      "ctaExplore": "Explore Products",
+      "ctaCatalog": "View Catalog"
+    },
+    "authority": {
+      "title": "European Origin, Global Excellence",
+      "text": "Our products are imported directly from the Netherlands, a country renowned for its high quality of life and exacting standards, as recognized by Forbes. This commitment to excellence is infused in every item we offer.",
+      "seal": "Imported from Europe"
+    },
+    "products": {
+      "title": "Curated Collection",
+      "searchPlaceholder": "Search products...",
+      "categories": {
+        "all": "All",
+        "cosmetics": "Cosmetics",
+        "beauty": "Beauty",
+        "gym": "Gym & Performance",
+        "accessories": "Accessories"
+      },
+      "badges": {
+        "new": "New",
+        "premium": "Premium",
+        "limited": "Limited"
+      },
+      "modalAction": "Contact to Buy"
+    },
+    "benefits": {
+      "title": "The Welwitchia Difference",
+      "card1": {
+        "title": "Dutch Quality",
+        "text": "Products that meet rigorous European quality and safety standards."
+      },
+      "card2": {
+        "title": "Delivery in Angola",
+        "text": "Premium European beauty delivered conveniently to your doorstep."
+      },
+      "card3": {
+        "title": "Curated Selection",
+        "text": "Each product is handpicked for its effectiveness and premium quality."
+      },
+      "card4": {
+        "title": "Personalized Service",
+        "text": "Expert advice and support to help you find the perfect products."
+      }
+    },
+    "testimonials": {
+      "title": "What Our Clients Say",
+      "clients": "500+ Satisfied Clients"
+    },
+    "contact": {
+      "title": "Discover the European Standard of Beauty.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "message": "Message",
+        "submit": "Shop Now"
+      }
+    },
+    "footer": {
+      "rights": "All rights reserved.",
+      "quickLinks": "Quick Links"
+    }
+}

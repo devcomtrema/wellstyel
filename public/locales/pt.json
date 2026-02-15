@@ -1,0 +1,75 @@
+
+{
+  "nav": {
+      "home": "Início",
+      "origin": "Origem",
+      "products": "Produtos",
+      "benefits": "Benefícios",
+      "testimonials": "Depoimentos",
+      "contact": "Contato"
+    },
+    "hero": {
+      "headline": "Welwitchia Style — Beleza Premium da Holanda para o Mundo",
+      "subheadline": "Cosméticos e produtos selecionados com padrão europeu de excelência.",
+      "ctaExplore": "Explorar Produtos",
+      "ctaCatalog": "Ver Catálogo"
+    },
+    "authority": {
+      "title": "Origem Europeia, Excelência Global",
+      "text": "Os nossos produtos são importados diretamente da Holanda, um país reconhecido pela sua alta qualidade de vida e padrões exigentes, como reconhecido pela Forbes. Este compromisso com a excelência está presente em cada item que oferecemos.",
+      "seal": "Importado da Europa"
+    },
+    "products": {
+      "title": "Coleção Exclusiva",
+      "searchPlaceholder": "Pesquisar produtos...",
+      "categories": {
+        "all": "Todos",
+        "cosmetics": "Cosméticos",
+        "beauty": "Beleza",
+        "gym": "Ginásio e Performance",
+        "accessories": "Acessórios"
+      },
+      "badges": {
+        "new": "Novo",
+        "premium": "Premium",
+        "limited": "Limitado"
+      },
+      "modalAction": "Contactar para Comprar"
+    },
+    "benefits": {
+      "title": "A Diferença Welwitchia",
+      "card1": {
+        "title": "Qualidade Holandesa",
+        "text": "Produtos que cumprem rigorosos padrões europeus de qualidade e segurança."
+      },
+      "card2": {
+        "title": "Entrega em Angola",
+        "text": "Beleza premium europeia entregue convenientemente à sua porta."
+      },
+      "card3": {
+        "title": "Seleção Criteriosa",
+        "text": "Cada produto é escolhido a dedo pela sua eficácia e qualidade premium."
+      },
+      "card4": {
+        "title": "Atendimento Personalizado",
+        "text": "Aconselhamento especializado para a ajudar a encontrar os produtos perfeitos."
+      }
+    },
+    "testimonials": {
+      "title": "O Que Dizem os Nossos Clientes",
+      "clients": "Mais de 500 Clientes Satisfeitos"
+    },
+    "contact": {
+      "title": "Descubra o Padrão Europeu de Beleza.",
+      "form": {
+        "name": "Nome",
+        "email": "Email",
+        "message": "Mensagem",
+        "submit": "Comprar Agora"
+      }
+    },
+    "footer": {
+      "rights": "Todos os direitos reservados.",
+      "quickLinks": "Links Rápidos"
+    }
+}
