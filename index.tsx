@@ -1,8 +1,8 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
 import './i18n'; // Initialize i18next
+import App from './App';
 import './index.css'; // Import Tailwind CSS
 
 const rootElement = document.getElementById('root');
@@ -13,8 +13,6 @@ if (!rootElement) {
 const root = ReactDOM.createRoot(rootElement);
 root.render(
   <React.StrictMode>
-    <React.Suspense fallback={<div>Loading...</div>}>
-      <App />
-    </React.Suspense>
+    <App />
   </React.StrictMode>
 );

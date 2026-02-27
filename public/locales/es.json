@@ -70,6 +70,10 @@
     },
     "footer": {
       "rights": "Todos los derechos reservados.",
-      "quickLinks": "Enlaces Rápidos"
+      "quickLinks": "Enlaces Rápidos",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos y Condiciones",
+      "accessibility": "Accesibilidad",
+      "waHealth": "Privacidad de Salud de WA"
     }
 }

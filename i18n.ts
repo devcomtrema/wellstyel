@@ -14,13 +14,16 @@ i18n
     debug: false,
     detection: {
       order: ['querystring', 'cookie', 'localStorage', 'navigator', 'htmlTag'],
-      caches: ['cookie'],
+      caches: ['cookie', 'localStorage'],
     },
     backend: {
       loadPath: '/locales/{{lng}}.json',
     },
+    interpolation: {
+      escapeValue: false,
+    },
     react: {
-      useSuspense: false,
+      useSuspense: true,
     },
   });
 

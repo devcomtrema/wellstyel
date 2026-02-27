@@ -70,6 +70,10 @@
     },
     "footer": {
       "rights": "Alle rechten voorbehouden.",
-      "quickLinks": "Snelle Links"
+      "quickLinks": "Snelle Links",
+      "privacy": "Privacybeleid",
+      "terms": "Algemene Voorwaarden",
+      "accessibility": "Toegankelijkheid",
+      "waHealth": "WA Gezondheid Privacy"
     }
 }

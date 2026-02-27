@@ -4,9 +4,10 @@ import { useTranslation } from 'react-i18next';
 import { NAV_LINKS } from '../constants';
 import { Logo } from './ui/Logo';
 import LanguageSwitcher from './ui/LanguageSwitcher';
+import ThemeToggle from './ui/ThemeToggle';
 
 const Header = () => {
-  const { t } = useTranslation();
+  const { t, ready } = useTranslation();
   const [isScrolled, setIsScrolled] = useState(false);
 
   useEffect(() => {
@@ -18,21 +19,26 @@ const Header = () => {
   }, []);
 
   return (
-    <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-white/80 dark:bg-dark-bg/80 backdrop-blur-sm shadow-md' : 'bg-transparent'}`}>
+    <header className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-white/80 dark:bg-dark-bg/80 backdrop-blur-sm shadow-md' : 'bg-transparent dark:bg-transparent'}`}>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-20">
-          <a href="#home" className="text-2xl font-bold">
-            <Logo className="h-10 w-auto" />
+        <div className="flex items-center justify-between h-16">
+          <a href="#home" className="text-2xl font-bold hover:opacity-80 transition-opacity">
+            <Logo className="h-8 w-auto" />
           </a>
-          <nav className="hidden md:flex items-center space-x-8">
-            {NAV_LINKS.map(link => (
-              <a key={link.key} href={link.href} className="text-sm font-medium hover:text-brand-green dark:hover:text-brand-green-dark transition-colors">
+          <nav className="hidden md:flex items-center space-x-6">
+            {ready && NAV_LINKS.map(link => (
+              <a 
+                key={link.key} 
+                href={link.href} 
+                className="text-sm font-medium text-light-text dark:text-gray-300 hover:text-brand-green dark:hover:text-brand-green-dark transition-colors duration-200"
+              >
                 {t(link.key)}
               </a>
             ))}
           </nav>
-          <div className="flex items-center space-x-4">
-             <LanguageSwitcher />
+          <div className="flex items-center space-x-3">
+            <ThemeToggle />
+            <LanguageSwitcher />
           </div>
         </div>
       </div>
