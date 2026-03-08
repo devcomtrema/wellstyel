@@ -11,7 +11,7 @@ const Hero = () => {
     <section id="home" className="relative h-screen flex items-center justify-center text-center text-white" ref={ref as React.RefObject<HTMLDivElement>}>
       <div className="absolute inset-0 bg-black opacity-50 z-10"></div>
       <img
-        src="https://picsum.photos/seed/hero/1920/1080"
+        src="https://thursd.com/storage/media/82566/Welwitschia-a-plant-that-can-survive-for-hundreds-of-years.jpg"
         alt="Premium cosmetic products"
         className="absolute inset-0 w-full h-full object-cover"
         loading="eager"
